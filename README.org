@@ -1,0 +1,20 @@
+* Photography Study And Learning Notes
+:PROPERTIES:
+:CUSTOM_ID: photography-study-and-learning-notes
+:END:
+** Online Education
+:PROPERTIES:
+:CUSTOM_ID: online-education
+:END:
+** Books
+:PROPERTIES:
+:CUSTOM_ID: books
+:END:
+** Lighting Equipment
+:PROPERTIES:
+:CUSTOM_ID: lighting-equipment
+:END:
+** Other Equipment
+:PROPERTIES:
+:CUSTOM_ID: other-equipment
+:END:
