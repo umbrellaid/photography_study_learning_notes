@@ -1,14 +1,18 @@
+* Photography Study And Learning Notes                                  :TOC:
+:PROPERTIES:
+:TOC:      :include all
 :CONTENTS:
 
 :END:
-:PROPERTIES:
-:TOC:      :include all :depth 10
-:END:
 
-* Photography Study And Learning Notes
-:PROPERTIES:
 :CUSTOM_ID: photography-study-and-learning-notes
 :END:
+
+  - [[#online-education][Online Education]]
+  - [[#books][Books]]
+  - [[#lighting-equipment][Lighting Equipment]]
+  - [[#other-equipment][Other Equipment]]
+
 ** Online Education
 :PROPERTIES:
 :CUSTOM_ID: online-education
