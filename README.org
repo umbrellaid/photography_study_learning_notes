@@ -2,22 +2,51 @@
 :PROPERTIES:
 :TOC:      :include all
 :CUSTOM_ID: photography-study-and-learning-notes
-:END:
-
 :CONTENTS:
-
+:END:
   - [[#online-education][Online Education]]
+  - [[#youtube-online-education][YouTube Online Education]]
   - [[#books][Books]]
   - [[#lighting-equipment][Lighting Equipment]]
+    - [[#paul-c-buff][Paul C Buff]]
+    - [[#godox][Godox]]
+    - [[#fj-wescott][FJ Wescott]]
   - [[#other-equipment][Other Equipment]]
   - [[#contact-me][Contact Me]]
 
 ** Online Education
-** Books
-** Lighting Equipment
-** Other Equipment
+- [[https://www.creativelive.com/][Creative Live]]
+- [[https://proedu.com/][ProEDU]]
+- [[https://kelbyone.com/][KelbyOne]]
+- [[https://davidmolnar.com/][David Molnar]]
+- [[https://visualeducation.com/][Visual Education]]
+- [[https://www.joelgrimes.com/][Joel Grimes]] - do not buy anything until you sign up for his
+email newsletter he sends out specials all the time - his most expensive
+offering at the moment is in the $200-300 range, if something is in the
+thousands of dollars do not buy it, he will offer a discount through email where
+the price will come down
+- [[https://learn.lindsayadlerphotography.com/learnplus/][Lindsay Adler Photography Learn Plus Membership]]
 
+** YouTube Online Education
+- [[https://www.youtube.com/@NathanCoolPhoto/videos][Nathan Cool Photo - Real Estate Photography]]
+- [[https://www.youtube.com/@itselijones/videos][Eli Jones - Real Estate Photography]]
+** Books
+- [[https://www.amazon.com/stores/Nathan-Cool/author/B075MZNJ5W?ref=sr_ntt_srch_lnk_1&qid=1714432641&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true][Nathan Cool kindle ebooks Real Estate Photography]]
+- [[https://www.amazon.com/Mastering-Color-Photography-approach-professional-ebook/dp/B09KPGVZFT?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.q2tf_EUE_61nzO_BVLm0UkhSy6OGUgMqrktlCFsWiJxBWzjb3-JwGA21-clMXm5TpT1Xz5JhgyjAyjrUXmkOebyY9j5jsRwXvFxIF9nEYZ382Dx8Ne4KBc0x9mczbRIV0qJlmZMP2DGu7JbnugRKkWIXFmLLv39YKXfwB519L4toJFZ9nb71L0Ha8PSITvD0.gcjIhwmUZzQvVNEmmwIrs-OTHbP_-2z5fCfJi1b_S0w&dib_tag=AUTHOR][Nathan Cool - Mastering Color in Photography: A simple approach to professional results - Kindle ebook]]
+** Lighting Equipment
+*** Paul C Buff
+- [[https://paulcbuff.com/][Paul C Buff - Professional Photography Lighting]]
+- [[https://www.youtube.com/watch?v=zMrKZNsUQJ0][YouTube Video: What Light Is Right For You? (Comparing Einstein, Link, and Celestial Paul C Buff Flash Units)]]
+*** Godox
+- [[http://godox.com/][Godox Lighting and Audio Equipment]]
+- [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Monolights-and-Strobes][Flashpoint Photography Monolights & Strobes]]
+- [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Flashes-and-On-hyphen-Camera-Lighting][Flashpoint Flashes & On-Camera Lighting]]
+*** FJ Wescott
+- [[https://www.fjwestcott.com/collections/fj-wireless-flash-system-lighting][FJ Wireless Flash System]]
+** Other Equipment
+- [[https://www.fjwestcott.com/][FJ Wescott]]
+-[[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Glow~Light-Modifiers-and-Reflectors][Photography Light Modifiers & Reflectors - Adorama Flashpoint and Glow]] 
 ** Contact Me
 If you have any interesting information to share please let me know.
 
-[[mailto:david.rrrrrr@yandex.com?subject=Hello%20From%20%5BGitHub%5D][Email Dave]]
+[[mailto:david.rrrrrr@yandex.com][Email Dave]]
