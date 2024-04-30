@@ -1,7 +1,6 @@
 * Photography Study And Learning Notes                                  :TOC:
 :PROPERTIES:
 :TOC:      :include all
-:CUSTOM_ID: photography-study-and-learning-notes
 :CONTENTS:
 :END:
   - [[#online-education][Online Education]]
