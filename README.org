@@ -9,8 +9,9 @@
   - [[#lighting-equipment][Lighting Equipment]]
     - [[#paul-c-buff][Paul C Buff]]
     - [[#godox][Godox]]
-    - [[#fj-wescott][FJ Wescott]]
+    - [[#fj-westcott][FJ Westcott]]
   - [[#other-equipment][Other Equipment]]
+    - [[#computer-files-backup][Computer Files Backup]]
   - [[#contact-me][Contact Me]]
 
 ** Online Education
@@ -19,19 +20,26 @@
 - [[https://kelbyone.com/][KelbyOne]]
 - [[https://davidmolnar.com/][David Molnar]]
 - [[https://visualeducation.com/][Visual Education]]
-- [[https://www.joelgrimes.com/][Joel Grimes]] - do not buy anything until you sign up for his
+- [[https://www.joelgrimes.com/][Joel Grimes]]
+  - Purchasing note: Do not buy anything until you sign up for his
 email newsletter he sends out specials all the time - his most expensive
 offering at the moment is in the $200-300 range, if something is in the
 thousands of dollars do not buy it, he will offer a discount through email where
 the price will come down
 - [[https://learn.lindsayadlerphotography.com/learnplus/][Lindsay Adler Photography Learn Plus Membership]]
-
+- [[https://fstoppers.com/store][FStoppers Store]]
+- [[https://foodphotographyacademy.co/][Lauren Caris Short - Food Photography Academy]]
 ** YouTube Online Education
 - [[https://www.youtube.com/@NathanCoolPhoto/videos][Nathan Cool Photo - Real Estate Photography]]
 - [[https://www.youtube.com/@itselijones/videos][Eli Jones - Real Estate Photography]]
 ** Books
 - [[https://www.amazon.com/stores/Nathan-Cool/author/B075MZNJ5W?ref=sr_ntt_srch_lnk_1&qid=1714432641&sr=8-1&isDramIntegrated=true&shoppingPortalEnabled=true][Nathan Cool kindle ebooks Real Estate Photography]]
 - [[https://www.amazon.com/Mastering-Color-Photography-approach-professional-ebook/dp/B09KPGVZFT?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.q2tf_EUE_61nzO_BVLm0UkhSy6OGUgMqrktlCFsWiJxBWzjb3-JwGA21-clMXm5TpT1Xz5JhgyjAyjrUXmkOebyY9j5jsRwXvFxIF9nEYZ382Dx8Ne4KBc0x9mczbRIV0qJlmZMP2DGu7JbnugRKkWIXFmLLv39YKXfwB519L4toJFZ9nb71L0Ha8PSITvD0.gcjIhwmUZzQvVNEmmwIrs-OTHbP_-2z5fCfJi1b_S0w&dib_tag=AUTHOR][Nathan Cool - Mastering Color in Photography: A simple approach to professional results - Kindle ebook]]
+- [[https://www.amazon.com/Complete-Guide-Food-Photography-Mouth-Watering/dp/1681988151/ref=sr_1_1?crid=2SIAT45I8Z9JX&dib=eyJ2IjoiMSJ9.zEAtC1bk2PdqAuRXxVpMV-GpT5gy62y4U-xdK3iGfkwQjcL-GC5Ny542WfwaLwGVhizBb7vzPJylmIqJQLt72ckJRfrwXAszG8Mkv0ra4x0.m6vWu8IiCSslSIS9ulE60wZC71_AMTEc8JXH7vENWHA&dib_tag=se&keywords=lauren+caris+short+food+photography&qid=1714598368&sprefix=lauren+caris+short+food+photograph%2Caps%2C135&sr=8-1][Lauren Caris Short - The Complete Guide to Food Photography: How to Light, Compose, Style, and Edit Mouth-Watering Food Photographs]]
+- [[https://www.amazon.com/dp/0367860279/ref=sspa_dk_detail_2?psc=1&pd_rd_i=0367860279&pd_rd_w=dIu1Y&content-id=amzn1.sym.f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_p=f734d1a2-0bf9-4a26-ad34-2e1b969a5a75&pf_rd_r=QB86GR1J1YWM6ZG2ZZS5&pd_rd_wg=P5Kwu&pd_rd_r=27c5a3f9-4bbb-432e-a43a-9c0139e95fc0&s=books&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw][Light ― Science & Magic: An Introduction to Photographic Lighting 6th Edition]]
+- [[https://www.amazon.com/stores/author/B000APQPTU?ref_=ast_author_cabib][Bryan Peterson - all books and kindle ebooks]]
+- [[https://www.amazon.com/stores/author/B000APPRO4?ref_=ast_author_cabib][Scott Kelby - all books and kindle ebooks]]
+- [[https://www.amazon.com/stores/author/B0BD8H2ZZJ?ref_=ast_author_cabib][David Molnar - Learning to See: A Photographer’s Guide from Zero to Your First Paid Gigs]]
 ** Lighting Equipment
 *** Paul C Buff
 - [[https://paulcbuff.com/][Paul C Buff - Professional Photography Lighting]]
@@ -40,12 +48,24 @@ the price will come down
 - [[http://godox.com/][Godox Lighting and Audio Equipment]]
 - [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Monolights-and-Strobes][Flashpoint Photography Monolights & Strobes]]
 - [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Flashes-and-On-hyphen-Camera-Lighting][Flashpoint Flashes & On-Camera Lighting]]
-*** FJ Wescott
+*** FJ Westcott
 - [[https://www.fjwestcott.com/collections/fj-wireless-flash-system-lighting][FJ Wireless Flash System]]
 ** Other Equipment
-- [[https://www.fjwestcott.com/][FJ Wescott]]
-- [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Glow~Light-Modifiers-and-Reflectors][Photography Light Modifiers & Reflectors - Adorama Flashpoint and Glow]]
+- [[https://www.fjwestcott.com/][FJ Wescott - Light Modifiers & Reflectors]]
+- [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Glow~Light-Modifiers-and-Reflectors][Adorama Flashpoint and Glow - Photography Light Modifiers & Reflectors]]
+*** Computer Files Backup
+Use software to duplicate your raw files to multiple hard drives for safe
+keeping. Some example software:
+Linux:
+- FreeFileSync - [[https://freefilesync.org/download.php][https://freefilesync.org/download.php]]
+- rsync terminal command - [[https://linuxhandbook.com/rsync-command-examples/][https://linuxhandbook.com/rsync-command-examples/]]
+Windows:
+- FreeFileSync - [[https://freefilesync.org/download.php][https://freefilesync.org/download.php]]
+- GoodSync - [[https://www.goodsync.com/][https://www.goodsync.com/]]
+Mac/Apple:
+- FreeFileSync - [[https://freefilesync.org/download.php][https://freefilesync.org/download.php]]
+- Carbon Copy Cloner - [[https://bombich.com/download][https://bombich.com/download]]
+- ChronoSync - [[https://www.econtechnologies.com/chronosync/overview.html][https://www.econtechnologies.com/chronosync/overview.html]]
 ** Contact Me
 If you have any interesting information to share please let me know.
-
 [[mailto:david.rrrrrr@yandex.com][Email Dave]]
