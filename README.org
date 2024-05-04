@@ -1,8 +1,4 @@
 * Photography Study And Learning Notes                                  :TOC:
-:PROPERTIES:
-:TOC:      :include all
-:CONTENTS:
-:END:
   - [[#online-education][Online Education]]
   - [[#youtube-online-education][YouTube Online Education]]
   - [[#books][Books]]
