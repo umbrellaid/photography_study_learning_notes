@@ -6,7 +6,9 @@
     - [[#paul-c-buff][Paul C Buff]]
     - [[#godox][Godox]]
     - [[#fj-westcott][FJ Westcott]]
+    - [[#other-strobe--flash-manufacturers][Other strobe / flash manufacturers]]
   - [[#other-equipment][Other Equipment]]
+    - [[#editing-software][Editing Software]]
     - [[#computer-files-backup][Computer Files Backup]]
   - [[#contact-me][Contact Me]]
 
@@ -20,7 +22,7 @@
 Purchasing note: Do not buy anything until you sign up for his email newsletter
 he sends out specials all the time - his most expensive offering at the moment
 is in the $200-300 range, if something is in the thousands of dollars do not buy
-it, he will offer a discount through email where the price will come down
+it, he will offer a discount through email where the price will come down.
 - [[https://learn.lindsayadlerphotography.com/learnplus/][Lindsay Adler Photography Learn Plus Membership]]
 - [[https://fstoppers.com/store][FStoppers Store]]
 - [[https://foodphotographyacademy.co/][Lauren Caris Short - Food Photography Academy]]
@@ -38,16 +40,167 @@ it, he will offer a discount through email where the price will come down
 ** Lighting Equipment
 *** Paul C Buff
 - [[https://paulcbuff.com/][Paul C Buff - Professional Photography Lighting]]
+Why would you use lighting from Paul C Buff? They have excellent customer
+service. They will repair their products if something happens at reasonable
+cost. Their products are very well thought out with designs that are incredibly
+practical. You can buy lower cost simpler style lights without any bells or
+whistles or you can buy their newer lights that have all of the modern features
+built in. You can buy add-ons for all their lights that will allow you to
+control the power levels remotely, versus having to change the power on the unit
+itself. You can either use the same wireless system you are using to adjust the
+power levels to trigger the lights or you can use a separate triggering system.
+This gives the advantage of making these lights very easy to integrate into
+workflows with different brands/styles lights to have them all working together.
+
+For example you can use Pocket Wizards or Godox wireless triggers to fire the
+lights and you can use a Paul C Buff controller to adjust the power levels. This
+flexibility of being able to use the lights both ways is a very helpful option
+for some setups.
+
+If you need or want to adapt Bowens Mount modifiers to Paul C Buff lighting, you
+can do so with an adapter ring. This will allow you to use Bowens modifiers by
+placing the adapter on the modifier and then attaching it to the strobe. Please
+note a couple of things: Adorama also makes a different adapter that is
+available. I recommend both adapters as both are well made. They have very
+different designs but both designs are effective. Technically speaking using
+third party modifiers would void your warranty on your strobes. If you wanted to
+not void your warranty, then buy first party modifiers directly from Paul C
+Buff. However, most normal modifiers are not that heavy and are unlikely to
+cause any major issues.
+- [[https://www.amazon.com/gp/product/B07WS7W13Z/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1][Fomito Balcar Speedring to Bowens Mount Converter Monolight Interchangeable Adapter Ring]]
 - [[https://www.youtube.com/watch?v=zMrKZNsUQJ0][YouTube Video: What Light Is Right For You? (Comparing Einstein, Link, and Celestial Paul C Buff Flash Units)]]
 *** Godox
+Why would you use lighting from Godox? They have the widest variety of products
+available. Need speed lights for small portable work? They have it. Need
+something small but more powerful than a speed light? They have 100 and 200 watt
+highly portable strobes. Need more power? 300 - 600 watts are available in all
+kinds of configurations.
+
+Still need more power? No problem, multiple 1000 watt strobes are available.
+Need to order a huge amount of equipment? No problem, they can ship dozens or
+hundreds of units to your doorstep.
+
+I also want to point out that I like their wireless triggers. Not only can you
+control the power of any of their lights remotely, but you can use their
+receivers and fire lights from any other brands. You cannot control the power
+level of the other brands, but you can fire the lights in a reliable way. You
+can also use Pocket Wizards to perform this task as well.
+
+Godox does not provide customer support. Zero customer support. You cannot send
+them your sob stories of your equipment being broken or your technical
+questions. I mean you can send it to them, but you will never receive a reply.
+You can send all of those questions to where you bought your equipment. This is
+where some complexity comes into play.
+
+If you buy everything from Adorama you will get the most customer support.
+Buying from B&H will also yield excellent custom support, however, if your
+equipment stops working B&H cannot fix it. I just mean that B&H has excellent
+normal customer service. For example if you buy a unit and there is an issue
+when you receive it, then they will help you. Note that any issues have to be
+addressed quickly after you receive your order they cannot help you with long
+term problems. Adorama will fix units that are bought from them. Policies can
+change so look at the sites carefully for the latest information.
+
+Godox units are very reliable on the whole, but strobes from any brand can have
+unexpected issues and can have issues occur even from normal use. These concerns
+are not Godox specific, I am just pointing them out here because customer
+support has to be handled through the seller, not through the manufacturer.
+
+The reason for mentioning all of this is what you might want to be careful about
+buying from unauthorized dealers or used equipment that is for sale from various
+places. The equipment is well made, but there are places that can put the
+equipment through unusual abuse or can store the equipment in unsafe conditions.
+You could easily spend money and get equipment that does not last you very long
+or does not even function at all. Getting it fixed may prove difficult or
+impossible. You might get lucky and everything might be fine, but it may also
+not be worth the cost savings.
+
+The good news is even though Godox has become a huge source for this equipment,
+they still put their products on sale, especially around the holidays. I will
+warn that be careful to check the prices throughout the year, because not every
+sale is steal, but it is great that they still offer price breaks to allow both
+professionals and hobbyist the chance to purchase equipment at a lower price.
+Whether the discount is a small one or a big one, I am grateful they at least
+are still offering price breaks.
+
+Please note Adorama Flashpoint products are exactly the same as the Godox
+products, just different branding is printed on the outside. You can use Godox
+and Adorama Flashpoint items interchangeably with no issues at all. In other
+parts of the world Godox has other house brands as well. If you are in the
+United States, buy Godox from authorized retails only like B&H or buy Adorama
+Flash Point only from an authorized retailer like Adorama.
+
+Please note that I believe that B&H and Adorama track the serial numbers of the
+Godox / Flashpoint strobe equipment. This is both a quality assurance measure in
+case there is a bad batch of equipment and also helps prevent strange scams that
+some people try to do.
 - [[http://godox.com/][Godox Lighting and Audio Equipment]]
 - [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Monolights-and-Strobes][Flashpoint Photography Monolights & Strobes]]
 - [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Flashes-and-On-hyphen-Camera-Lighting][Flashpoint Flashes & On-Camera Lighting]]
+- [[https://www.bhphotovideo.com/c/products/Monolights/ci/1225?filters=fct_brand_name%3Agodox][BH Photo Video - Godox Products]]
 *** FJ Westcott
+Why would you use lighting from FJ Westcott? Their strobes feel like the most
+modern, streamlined design of any strobes out there. They only have a few
+products in their line up, basically one speed light, one small 200 watt strobe
+and one 400 watt strobe that is larger in size but certainly not huge. They have
+the most modern remote control system that lets you easily move between camera
+brands with the same trigger. Except for Sony who has a different hot shoe
+design, you can use the same trigger on multiple camera systems. They have a
+different trigger available to accommodate Sony shooters.
+
+Issues people experience with some of the strobes that were an older design are
+certainly not present here. This makes it refreshingly simple to select your
+lighting. All of these units feature everything at the highest quality level.
+The prices are also reasonable for what you are getting. If you spend a lot of
+time understanding strobes and what features you need versus not needing, you
+could save money going with Godox or Paul C Buff, but only if you have specific
+needs where you do not need all of the bells and whistles. If you need all of
+the features then you will spend the same amount of money and possibly more
+money.
+
+It is easy to recommend these lights, because you cannot pick and option that
+you will need later, these lights already having everything you could possibly
+need (at least that exists with today's technology).
+
+FJ Westcott has been supporting photographers with many high quality accessories
+for years. They have excellent customer service. They answer any reasonable
+questions, they answer their emails and are very nice to work with in general.
 - [[https://www.fjwestcott.com/collections/fj-wireless-flash-system-lighting][FJ Wireless Flash System]]
+*** Other strobe / flash manufacturers
+Why have I not covered the other brands that are available?
+
+There are other options on the market besides the three above. I would recommend
+you start by looking at the three above at least to give you context before you
+explore further. There are some companies whose products do not hold up well at
+all or are more difficult to use. You might save a few bucks, but in the end you
+will not like working with the products and it will make the photography even
+harder.
+
+On the other side of the coin are the premium brands that cost significantly
+more money to become invested into. Their service, build quality and product
+designs are second to none, but their prices are quite significant. Some people
+say their products are not worth the cost, but they actually can be worth it for
+some people. If you are charging large sums of money for your photography, then
+having an industry well known name in the room for your studio work helps
+support your elevated business model. Also please keep in mind that some people
+you see using this equipment are renting it and do not actually own all of this
+gear. For commercial jobs they simply charge the rental fees to the client. For
+personal work they might own a different brand or they may just own one or two
+lights from the premium brand if they want to make sure their behind the scenes
+footage shows the high end brand being used in their work.
 ** Other Equipment
-- [[https://www.fjwestcott.com/][FJ Wescott - Light Modifiers & Reflectors]]
 - [[https://www.adorama.com/l/Photography/Lighting-and-Studio/Flashpoint~Glow~Light-Modifiers-and-Reflectors][Adorama Flashpoint and Glow - Photography Light Modifiers & Reflectors]]
+- [[https://www.fjwestcott.com/][FJ Wescott - Light Modifiers & Reflectors]]
+- [[https://www.ifootagegear.com/][https://www.ifootagegear.com/]]
+- [[https://www.magnetmod.com/][https://www.magnetmod.com/]]
+- [[https://www.ulanzi.com/][https://www.ulanzi.com/]]
+  - They have a wide variety of accessories for photography, including tripods, lighting, microphones and quick release systems.
+  - [[https://www.ulanzi.com/pages/about-ulanzi][https://www.ulanzi.com/pages/about-ulanzi]]
+*** Editing Software
+- [[https://skylum.com/luminar][https://skylum.com/luminar]]
+- [[https://www.dxo.com/][https://www.dxo.com/]]
+- [[https://www.on1.com/][https://www.on1.com/]]
+- [[https://www.topazlabs.com/][https://www.topazlabs.com/]]
 *** Computer Files Backup
 Use software to duplicate your raw files to multiple hard drives for safe
 keeping. Some example software:
@@ -62,5 +215,4 @@ Mac/Apple:
 - Carbon Copy Cloner - [[https://bombich.com/download][https://bombich.com/download]]
 - ChronoSync - [[https://www.econtechnologies.com/chronosync/overview.html][https://www.econtechnologies.com/chronosync/overview.html]]
 ** Contact Me
-If you have any interesting information to share please let me know.
-[[mailto:david.rrrrrr@yandex.com][Email Dave]]
+If you have any interesting information to share please let me know. [[mailto:david.rrrrrr@yandex.com][Email Dave]]
